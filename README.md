@@ -7,7 +7,7 @@
    \ \__\\ _\ |\_______\ \_______\ \__\
     \|__|\|__|\|_______|\|_______|\|__|
 ```
-![](https://discord.c99.nl/widget/theme-4/558374927477243914.png)
+![](https://discord.c99.nl/widget/theme-3/558374927477243914.png)
 
 Hi im a random guy that makes shitty py projects 4fun. Coding is just a hobby
 
