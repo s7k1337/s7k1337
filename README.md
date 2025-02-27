@@ -7,9 +7,9 @@
    \ \__\\ _\ |\_______\ \_______\ \__\
     \|__|\|__|\|_______|\|_______|\|__|
 ```
-![](https://discord.c99.nl/widget/theme-3/558374927477243914.png)
+![](https://discord.c99.nl/widget/theme-4/558374927477243914.png)
 
-Hi im a random guy that makes shitty py projects 4fun. Coding is just a hobby
+Hi im a random guy that makes shitty nodejs projects 4fun by using chatgpt. Real coding is for pussies
 
 ![](https://komarev.com/ghpvc/?username=r3cik&style=for-the-badge&color=000000)
 ![](https://img.shields.io/github/followers/r3cik?style=for-the-badge&color=000000)
